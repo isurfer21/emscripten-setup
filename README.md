@@ -74,7 +74,7 @@ chmod a+x ems
 After doing these steps, you can run the script by typing:
 
 ```bash
-./ems
+./ems <command> <arguments>
 ```
 
 or by double-clicking it on Mac.
